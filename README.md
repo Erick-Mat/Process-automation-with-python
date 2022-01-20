@@ -19,10 +19,10 @@ Nele é enviado um e-mail para a diretoria com o faturamento e a quantidade de p
 
 ## Instalação e Execução: 
 
-- Instalação:
+Instalação:
 - PyAutoGUI: pip install pyautogui
 - Pyperclip: pip install pyperclip
 - Pandas: pip install pandas
 
-- Execução:
+Execução:
 - python AutomatizacaoDeProcessos.py
