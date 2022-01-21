@@ -13,7 +13,7 @@ Nele é enviado um e-mail para a diretoria com o faturamento e a quantidade de p
 
 ## Limitações: 
 
-- PyAutoGUI: O PyAutoGUI funciona no Windows, macOS e Linux e é executado no Python 2 e 3. 
+- PyAutoGUI: O PyAutoGUI funciona no Windows, macOS e Linux e é executado no Python 2 e 3. O PyAutoGUI não funciona em segundo plano.
 - Pyperclip: O PyAutoGUI não consegue escrever ou interpretar caracteres especiais. Para ultrapassar esse problema utilizamos a biblioteca Pyperclip.
 - Time: O PyAutoGUI possui um temporizador que pode ser utilizado, funcionando somente se estiver entre comandos da propria biblioteca. Para um temporizador geral é necessário utilizar a biblioteca Time.
 
