@@ -4,7 +4,7 @@ Automatização de processos manuais e repetitivos utilizando python.
 ## Sobre:
 
 Todos os dias, o sistema atualiza as vendas do dia anterior. Este programa tem como intuito substituir o trabalho diário como analista.
-Nele é enviado um e-mail para a diretoria com o faturamento e a quantidade de produtos vendidos no dia anterior usando como base as seguintes bibliotecas:
+Nele é enviado um e-mail para a diretoria com o faturamento e a quantidade de produtos vendidos no dia anterior, usando como base as seguintes bibliotecas:
 
 - pyautogui: PyAutoGUI permite que seus scripts Python controlem o mouse e o teclado para automatizar as interações com outros aplicativos. 
 - pyperclip: O Pyperclip fornece um módulo Python multiplataforma para copiar e colar texto na área de transferência.
@@ -19,10 +19,10 @@ Nele é enviado um e-mail para a diretoria com o faturamento e a quantidade de p
 
 ## Instalação e Execução: 
 
-Instalação:
+### Instalação:
 - PyAutoGUI: pip install pyautogui
 - Pyperclip: pip install pyperclip
 - Pandas: pip install pandas
 
-Execução:
+### Execução:
 - python AutomatizacaoDeProcessos.py
